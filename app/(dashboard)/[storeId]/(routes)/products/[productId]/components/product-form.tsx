@@ -126,7 +126,7 @@ export const ProductForm: React.FC<ProductFormProps> = ({
       router.refresh();
       toast.success(toastMessage);
     } catch (error) {
-      toast.error("There might be a field not filled.");
+      toast.error("There might be a field not filled in.");
     } finally {
       setLoading(false);
     }

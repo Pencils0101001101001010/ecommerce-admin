@@ -35,6 +35,7 @@
     "react-hook-form": "^7.53.0",
     "react-hot-toast": "^2.4.1",
     "shadcn-ui": "^0.8.0",
+    "stripe": "^16.11.0",
     "table": "^6.8.2",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
